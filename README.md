@@ -9,5 +9,5 @@ py challenge_generator.py (STEAMDIR) (NAME) [DESCRIPTION] [DIRECTORYNAME]
 ```
 Example:
 ```sh
-py challenge_generator.py "C:\Steam\steamapps\common\The Binding of Isaac Rebirth" "Arachnophobia" "All enemies are spiders!"
+py challenge_generator.py "C:\Steam\steamapps\common" "Arachnophobia" "All enemies are spiders!"
 ```
